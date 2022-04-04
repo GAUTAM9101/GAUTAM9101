@@ -1,4 +1,7 @@
-https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/Header.png
+<p>
+  <a href="https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/Header.png"><img width="150" align='right'></a>
+</p>
+
 ### Hi there 👋
 
 <!--
