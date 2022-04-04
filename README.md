@@ -1,7 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/main/Header.png)](https://waylonwalker.com)
-<p>
-  <a href="https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/Header.png"><img width="150" align='right'></a>
-</p>
+# [![Header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/main/Header.png)]()
 
 ### Hi there 👋
 
