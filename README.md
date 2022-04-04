@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/header.png)]
+ [![waylon walker header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/Header.png)]()
 ### Hi there 👋
 
 <!--
