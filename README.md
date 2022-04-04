@@ -12,6 +12,9 @@ I am an aspiring Security Engineer exploring the field of Machine Learning in In
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markdown-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-2bbc8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam9101@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-2bbc8a?style=for-the-badge&logo=linkedin&logoColor=white)](gautam9101)
