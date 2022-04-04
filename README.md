@@ -1,4 +1,4 @@
- [!(https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/Header.png)]()
+https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/Header.png
 ### Hi there 👋
 
 <!--
