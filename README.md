@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/header.png "Header")]
+[![Header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/header.png)]
 ### Hi there 👋
 
 <!--
