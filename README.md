@@ -1,6 +1,6 @@
 # [![Header](https://raw.githubusercontent.com/GAUTAM9101/GAUTAM9101/main/Header.png)]()
 
-# Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
+# Hey, there! 
 
 
 ## 👩‍💻 About Me
