@@ -6,6 +6,8 @@
 ## 👩‍💻 About Me
 I am an aspiring Security Engineer exploring the field of Machine Learning in Intrusion Detection Systems.
 
+<script src="https://tryhackme.com/badge/192151"></script>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
